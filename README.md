@@ -1,8 +1,22 @@
 # change-file-permission
 You can use this script for changing file permission
 
+## Requirement
+
+**node.js**
+**chalk**
+
+###### How to install Requirement?
+
+- install [node.js] (https://nodejs.org/en/download/)
+- open cmd or terminal
+- write **npm install chalk**
+
+
 ## How to use?
 __node chmode.js -f Filename -p permission__
+
+
   
 ###### permissions
 
