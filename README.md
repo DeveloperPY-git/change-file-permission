@@ -4,11 +4,12 @@ You can use this script for changing file permission
 ## Requirement
 
 **node.js**
+
 **chalk**
 
 ###### How to install Requirement?
 
-- install [node.js](https://nodejs.org/en/download/)
+- install [node.js](https://nodejs.org/en/)
 - open cmd or terminal
 - write **npm install chalk**
 
