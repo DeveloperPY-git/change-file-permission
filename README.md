@@ -2,7 +2,7 @@
 You can use this script for changing file permission
 
 ## How to use?
-** node chmode.js -f <Filename> -p <permission> **
+__node chmode.js -f <Filename> -p <permission>__
   
 ###### permissions
 
